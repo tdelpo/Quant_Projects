@@ -7,3 +7,7 @@ Using my background in diffusion and advection modelling, combined with either m
 2. Positive Drift Put Spread Strategy:
 
 A while ago, I calculated a put-spread strategy on the S&P 500 and paper traded it. We're going to formalise the math and modelling as a case study and demonstrate it's success. Once back-tested, we may put together a small account and move to real trading. Trading on 45 DTE options with a 50% profit or 21 day exit criteria, this is a waiting game strategy and definitely not HFT/MFT.
+
+3. Research into Directional Indicator via NN for Index, FX and Rates futures
+
+Details on this project will be kept private for the meantime - this is quant research work for a buy-side hedge fund that is giving me intern experience.
