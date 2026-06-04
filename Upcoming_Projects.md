@@ -11,3 +11,7 @@ A while ago, I calculated a put-spread strategy on the S&P 500 and paper traded 
 3. Research into Directional Indicator via NN for Index, FX and Rates futures
 
 Details on this project will be kept private for the meantime - this is quant research work for a buy-side hedge fund that is giving me intern experience.
+
+4. Perform a portfolio analysis on current private portfolio
+
+Utilising the stocks currently invested which have provided a net 20% return in the past year, perform an analysis on their data, correlations, weights versus suggested weights, etc. Publish and look to potentially stream current performance through an app / personal website.
