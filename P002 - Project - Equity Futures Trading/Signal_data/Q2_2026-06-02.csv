@@ -1,6 +1,3 @@
-# IMPORTANT: A Disclaimer and Legal Notices section applicable to all data in this file appears at the end.,,,,,,,,,,,,,,
-# Use of this file constitutes acceptance of those terms.,,,,,,,,,,,,,,
-#,,,,,,,,,,,,,,
 utc_date,utc_timestamp_iso_8601,report_id,ES_classification,ES_refOpen,NQ_classification,NQ_refOpen,ZN_classification,ZN_refOpen_dec,FGBL_classification,FGBL_refOpen,6E_classification,6E_refOpen,6J_classification,6J_refOpen
 29/03/2026,2026-03-29T21:31:18Z,6050f1ae-7fe5-48a8-a9fe-7016c0652930,,6380,BULLISH,23189.5,BEARISH,110.171875,BULLISH,124.52,,1.154,,0.0062775
 30/03/2026,2026-03-30T21:31:07Z,3bc35fca-f6b6-4513-ab84-545e97d3f8d7,BULLISH,6385.25,NOCHANGE,23119.5,NOCHANGE,110.765625,BEARISH,124.96,,1.1505,,0.0063
