@@ -1,17 +1,17 @@
 Several Project Ideas:
 
-1. Weather Prediction: Highest London Temperature
+X. Weather Prediction: Highest London Temperature
 
 Using my background in diffusion and advection modelling, combined with either multi-regression or random forest, we're going to take historical weather data and current forecasts from several sources, combine them into a feature section and train a model. The strategy will be backtested and then trade on Polymarket for results.
 
-2. Positive Drift Put Spread Strategy:
+X. Positive Drift Put Spread Strategy:
 
 A while ago, I calculated a put-spread strategy on the S&P 500 and paper traded it. We're going to formalise the math and modelling as a case study and demonstrate it's success. Once back-tested, we may put together a small account and move to real trading. Trading on 45 DTE options with a 50% profit or 21 day exit criteria, this is a waiting game strategy and definitely not HFT/MFT.
 
-3. Research into Directional Indicator via NN for Index, FX and Rates futures
+X. Research into Directional Indicator via NN for Index, FX and Rates futures
 
 Details on this project will be kept private for the meantime - this is quant research work for a buy-side hedge fund that is giving me intern experience.
 
-4. Perform a portfolio analysis on current private portfolio
+X. Perform a portfolio analysis on current private portfolio
 
 Utilising the stocks currently invested which have provided a net 20% return in the past year, perform an analysis on their data, correlations, weights versus suggested weights, etc. Publish and look to potentially stream current performance through an app / personal website.
