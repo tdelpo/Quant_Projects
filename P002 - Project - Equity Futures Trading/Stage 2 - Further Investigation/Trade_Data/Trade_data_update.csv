@@ -1,174 +1,58 @@
-"# IMPORTANT: A Disclaimer and Legal Notices section applicable to all data in this file appears at the end.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# Use of this file constitutes acceptance of those terms.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-utc_date,utc_timestamp_iso_8601,report_id,ES_classification,ES_refOpen,NQ_classification,NQ_refOpen,ZN_classification,ZN_refOpen_dec,FGBL_classification,FGBL_refOpen,6E_classification,6E_refOpen,6J_classification,6J_refOpen,,,,,,,,,,,
-2026-03-29,2026-03-29T21:31:18Z,6050f1ae-7fe5-48a8-a9fe-7016c0652930,,6380,BULLISH,23189.5,BEARISH,110.171875,BULLISH,124.52,,1.154,,0.0062775,,,,,,,,,,,
-2026-03-30,2026-03-30T21:31:07Z,3bc35fca-f6b6-4513-ab84-545e97d3f8d7,BULLISH,6385.25,NOCHANGE,23119.5,NOCHANGE,110.765625,BEARISH,124.96,,1.1505,,0.0063,,,,,,,,,,,
-2026-03-31,2026-03-31T21:33:13Z,2474e793-d2a1-4b9f-8d43-c813d15a664e,NOCHANGE,6562,NOCHANGE,23889,NOCHANGE,111.015625,NOCHANGE,125.79,,1.1591,BEARISH,0.0063405,,,,,,,,,,,
-2026-04-01,2026-04-01T21:37:57Z,d17d6713-a84b-4558-bae8-4219a5960e46,NOCHANGE,6618.5,NOCHANGE,24180,BULLISH,110.90625,BULLISH,125.71,,1.1628,NOCHANGE,0.006336,,,,,,,,,,,
-2026-04-02,2026-04-02T21:33:51Z,185ef11a-3de9-4bf2-b862-8043ea791d6d,BEARISH,6622.5,NOCHANGE,24219.5,NOCHANGE,111.015625,NOCHANGE,125.61,,1.1577,NOCHANGE,0.0063035,,,,,,,,,,,
-2026-04-05,2026-04-05T21:40:27Z,820c1093-6521-4bf6-864a-30f8d1fba81f,BULLISH,6590,NOCHANGE,24093.5,BEARISH,110.71875,NOCHANGE,125.61,BULLISH,1.156,NOCHANGE,0.0063035,,,,,,,,,,,
-2026-04-06,2026-04-06T21:36:19Z,6596f3aa-fe0f-4829-90d2-14ebe6c3b227,NOCHANGE,6650.5,NOCHANGE,24348.75,NOCHANGE,110.8125,NOCHANGE,125.49,NOCHANGE,1.15785,NOCHANGE,0.0063,,,,,,,,,,,
-2026-04-07,2026-04-07T21:35:45Z,fd831009-8d80-4ee0-bfb7-54e771600894,NOCHANGE,6689,NOCHANGE,24514,NOCHANGE,111.203125,NOCHANGE,125.8,NOCHANGE,1.16345,NOCHANGE,0.006306,,,,,,,,,,,
-2026-04-08,2026-04-08T21:33:06Z,e13b62e8-4e36-4c72-a767-fa02b9c52ab7,NOCHANGE,6814.25,BEARISH,25037.75,BULLISH,111.1875,BEARISH,126.07,NOCHANGE,1.1703,NOCHANGE,0.0063415,,,,,,,,,,,
-2026-04-09,2026-04-09T21:43:40Z,962a0f65-1fbe-47c1-ac6a-21a928fe9a3f,NOCHANGE,6858,NOCHANGE,25237,BEARISH,111.34375,NOCHANGE,125.57,NOCHANGE,1.1736,NOCHANGE,0.006325,,,,,,,,,,,
-2026-04-12,2026-04-12T21:35:27Z,0ec0b792-256c-447c-9665-a03945bbe35c,NOCHANGE,6780,BULLISH,24980,NOCHANGE,110.734375,BULLISH,124.8,NOCHANGE,1.171,BULLISH,0.006295,,,,,,,,,,,
-2026-04-13,2026-04-13T21:31:57Z,17a5b6ff-8e7c-4a94-acf9-3fc19e082513,NOCHANGE,6925.25,NOCHANGE,25575.25,BULLISH,111.25,NOCHANGE,125.1,NOCHANGE,1.17955,BEARISH,0.0063065,,,,,,,,,,,
-2026-04-14,2026-04-14T21:33:23Z,614c8d29-7b79-4096-88da-35444847f649,NOCHANGE,7004,BEARISH,25985.75,NOCHANGE,111.578125,NOCHANGE,125.54,NOCHANGE,1.1829,BULLISH,0.0063305,,,,,,,,,,,
-2026-04-15,2026-04-15T21:41:49Z,fbf744fe-f363-453d-b224-fc757b219e8f,BEARISH,7057.25,BULLISH,26350,BEARISH,111.359375,NOCHANGE,125.32,NOCHANGE,1.183,NOCHANGE,0.0063245,,,,,,,,,,,
-2026-04-16,2026-04-16T21:32:06Z,49f04749-2c15-4511-88c9-a8ce152c9286,NOCHANGE,7077.25,NOCHANGE,26460,BULLISH,111.171875,NOCHANGE,125.19,NOCHANGE,1.1813,NOCHANGE,0.0063145,,,,,,,,,,,
-2026-04-19,2026-04-19T21:43:00Z,22f302c1-d13d-4b45-a81b-5b39caf9489e,NOCHANGE,7102.5,NOCHANGE,26599.75,NOCHANGE,111.546875,NOCHANGE,125.78,BEARISH,1.1767,BEARISH,0.00632,,,,,,,,,,,
-2026-04-20,2026-04-20T21:40:58Z,ec304b41-5098-41ea-a726-61c9119526e1,BULLISH,7150.75,NOCHANGE,26776.75,NOCHANGE,111.609375,NOCHANGE,125.93,BULLISH,1.1819,NOCHANGE,0.006328,,,,,,,,,,,
-2026-04-21,2026-04-21T21:40:19Z,894575cd-3a82-474b-86c3-0d31f4cf28a5,BEARISH,7125,NOCHANGE,26729.5,NOCHANGE,111.296875,NOCHANGE,125.51,NOCHANGE,1.1772,BULLISH,0.006303,,,,,,,,,,,
-2026-04-22,2026-04-22T21:38:17Z,279f491f-8692-464c-8f5d-ab1af15f0408,BULLISH,7163,BEARISH,27075,NOCHANGE,111.203125,BEARISH,125.3,NOCHANGE,1.17345,BEARISH,0.006299,,,,,,,,,,,
-2026-04-23,2026-04-23T21:37:33Z,9a4c4492-5921-4e47-8bdd-fc3ac5974628,NOCHANGE,7143,BULLISH,26992,NOCHANGE,111.03125,NOCHANGE,125.35,NOCHANGE,1.17135,NOCHANGE,0.006289,,,,,,,,,,,
-2026-04-26,2026-04-26T21:39:45Z,b5231140-ff6f-4b6c-8e98-099829a4e6e0,NOCHANGE,7185,NOCHANGE,27403.25,NOCHANGE,111.15625,BULLISH,125.6,NOCHANGE,1.17405,NOCHANGE,0.0062955,,,,,,,,,,,
-2026-04-27,2026-04-27T21:33:33Z,bbd93c6c-ae75-42c3-94d7-098282ba1895,NOCHANGE,7204.75,NOCHANGE,27423,BEARISH,111.015625,NOCHANGE,125.36,NOCHANGE,1.17475,BULLISH,0.0063005,,,,,,,,,,,
-2026-04-28,2026-04-28T21:41:46Z,be019c04-6c08-4498-9dc4-63210fdca44a,NOCHANGE,7172.5,NOCHANGE,27197.25,NOCHANGE,110.890625,NOCHANGE,125.06,BEARISH,1.17385,BEARISH,0.006291,,,,,,,,,,,
-2026-04-29,2026-04-29T21:38:41Z,44999cd6-8bf1-4a6d-925f-ffde0fd65cc6,NOCHANGE,7150,BEARISH,27207,NOCHANGE,110.28125,BEARISH,124.56,BULLISH,1.17005,NOCHANGE,0.0062585,,,,,,,,,,,
-2026-04-30,2026-04-30T21:38:49Z,0685ac74-bc94-4b75-9512-e122fb13a3f8,NOCHANGE,7256,BULLISH,27631.75,NOCHANGE,110.703125,BULLISH,125.39,NOCHANGE,1.17585,BULLISH,0.0064075,,,,,,,,,,,
-2026-05-03,2026-05-03T21:37:03Z,fd0685fc-5d9d-408e-af22-a228996324db,NOCHANGE,7276.25,NOCHANGE,27890,NOCHANGE,110.75,NOCHANGE,125.39,NOCHANGE,1.17605,BEARISH,0.006389,,,,,,,,,,,
-2026-05-04,2026-05-04T21:34:11Z,4aff965d-8210-4fb1-ac36-3d1583a11b4e,NOCHANGE,7228.75,NOCHANGE,27760,NOCHANGE,111.21875,BEARISH,124.91,BEARISH,1.17155,NOCHANGE,0.0063865,,,,,,,,,,,
-2026-05-05,2026-05-05T21:34:04Z,9919346c-2676-4581-8d95-5c7ef7705a45,BEARISH,7300.5,NOCHANGE,28250,BULLISH,110.28125,BULLISH,125.18,BULLISH,1.1716,NOCHANGE,0.006355,,,,,,,,,,,
-2026-05-06,2026-05-06T21:34:50Z,0ff7cebd-028c-46e5-821c-372280421619,BULLISH,7380.5,BEARISH,28662.75,BEARISH,110.828125,NOCHANGE,125.76,NOCHANGE,1.17705,NOCHANGE,0.0064205,,,,,,,,,,,
-2026-05-07,2026-05-07T21:33:19Z,f7a04c77-d03f-4e81-98d3-987958ced52a,BEARISH,7340,BULLISH,28582,BULLISH,110.484375,BEARISH,125.52,NOCHANGE,1.17435,BULLISH,0.0063925,,,,,,,,,,,
-2026-05-10,2026-05-10T21:34:08Z,5914aa63-535a-4835-b32c-27b0a02ac2f2,NOCHANGE,7403.5,NOCHANGE,29294,BEARISH,110.71875,BULLISH,125.55,NOCHANGE,1.1789,BEARISH,0.0063955,,,,,,,,,,,
-2026-05-11,2026-05-11T21:34:23Z,c3f3896b-549d-4a5e-96e4-fd22137ea686,NOCHANGE,7435.5,BEARISH,29399,NOCHANGE,110.359375,NOCHANGE,125.19,NOCHANGE,1.18025,BULLISH,0.006381,,,,,,,,,,,
-2026-05-12,2026-05-12T21:32:26Z,23be7765-bd79-46d1-8e7e-73f6c67338d3,NOCHANGE,7419.25,BULLISH,29143.75,NOCHANGE,110.03125,BEARISH,124.63,NOCHANGE,1.17575,BEARISH,0.0063635,,,,,,,,,,,
-2026-05-13,2026-05-13T21:25:31Z,d658c04f-d151-4fc8-b238-1e7211bce9fa,NOCHANGE,7477.5,NOCHANGE,29537,NOCHANGE,110.0625,NOCHANGE,124.83,NOCHANGE,1.17315,BULLISH,0.0063515,,,,,,,,,,,
-2026-05-14,2026-05-14T21:35:41Z,7bc5bcf9-9fe2-47f7-b4d9-a7850c166418,BULLISH,7522.25,BEARISH,29690,NOCHANGE,109.90625,NOCHANGE,125,NOCHANGE,1.1685,BEARISH,0.0063315,,,,,,,,,,,
-2026-05-17,2026-05-17T21:34:22Z,3ccf337f-52e2-47d2-b1fc-4d4fcea0a81a,NOCHANGE,7410,BULLISH,29135,NOCHANGE,109.0625,NOCHANGE,123.91,NOCHANGE,1.1637,NOCHANGE,0.006314,,,,,,,,,,,
-2026-05-18,2026-05-18T21:38:44Z,018d8b85-27a4-4621-a0dd-1480d446bc5b,NOCHANGE,7423.5,NOCHANGE,29100,BULLISH,109.28125,BULLISH,124.37,BEARISH,1.16735,NOCHANGE,0.0063075,,,,,,,,,,,
-2026-05-19,2026-05-19T21:36:05Z,6d1587f5-1060-49d0-9bff-466995f14808,BEARISH,7377,NOCHANGE,28929.75,NOCHANGE,108.71875,BEARISH,123.97,NOCHANGE,1.162,BULLISH,0.006302,,,,,,,,,,,
-2026-05-20,2026-05-20T21:39:49Z,16d956f3-2c0c-4a00-a32c-cb02dec77449,BULLISH,7432.75,NOCHANGE,29253,NOCHANGE,109.25,NOCHANGE,124.83,NOCHANGE,1.1637,BEARISH,0.0063055,,,,,,,,,,,
-2026-05-21,2026-05-21T21:39:03Z,c2ce7ab1-38e1-4d45-81b0-d9d5a54493f9,NOCHANGE,7467,BEARISH,29444,NOCHANGE,109.3125,NOCHANGE,125.13,NOCHANGE,1.1629,NOCHANGE,0.0063015,,,,,,,,,,,
-2026-05-24,2026-05-24T21:35:59Z,f19b5abb-1d1e-45c1-ac81-ffb9848ba2ac,NOCHANGE,7519,NOCHANGE,29676.25,BEARISH,109.53125,BULLISH,125.78,NOCHANGE,1.1641,NOCHANGE,0.0063005,,,,,,,,,,,
-2026-05-25,2026-05-25T21:35:09Z,95b29f05-cf1e-4b6f-b3f1-65a0c2e1554a,NOCHANGE,7561.25,NOCHANGE,29962,BULLISH,109.96875,NOCHANGE,126.26,NOCHANGE,1.165,NOCHANGE,0.006301,,,,,,,,,,,
-2026-05-26,2026-05-26T21:35:59Z,7e5d3e61-da13-4e22-8cdd-e2e96e689867,NOCHANGE,7533,BULLISH,30050,NOCHANGE,109.859375,NOCHANGE,126.11,NOCHANGE,1.1641,BULLISH,0.006288,,,,,,,,,,,
-2026-05-27,2026-05-27T21:36:49Z,89e53121-51f9-4585-96b3-3c748656b12f,NOCHANGE,7553.75,BEARISH,30120,BEARISH,109.875,NOCHANGE,125.8,NOCHANGE,1.16355,BEARISH,0.00628,,,,,,,,,,,
-2026-05-28,2026-05-28T21:36:44Z,d6ebb85f-e27d-4159-aacf-040401bac93c,NOCHANGE,7587.5,BULLISH,30328,NOCHANGE,110.109375,NOCHANGE,126.16,NOCHANGE,1.16595,NOCHANGE,0.006289,,,,,,,,,,,
-2026-05-31,2026-05-31T21:38:02Z,a52d038e-5bbc-4b44-9ec6-cbbd0eebad37,NOCHANGE,7595,NOCHANGE,30415.5,NOCHANGE,109.78125,BEARISH,126.16,NOCHANGE,1.1668,NOCHANGE,0.0062845,,,,,,,,,,,
-2026-06-01,2026-06-01T21:34:56Z,6e42fab1-b7ef-42c5-9ec3-57bdd8191b31,NOCHANGE,7612,NOCHANGE,30544.75,NOCHANGE,109.75,BULLISH,126.02,NOCHANGE,1.16385,NOCHANGE,0.0062695,,,,,,,,,,,
-2026-06-02,2026-06-02T21:36:43Z,90fc8930-448b-421e-b5ca-ce4686a9faa9,NOCHANGE,7628,BEARISH,30741.75,NOCHANGE,109.765625,NOCHANGE,126,NOCHANGE,1.16365,BULLISH,0.006262,,,,,,,,,,,
-2026-06-03,2026-06-03T21:35:59Z,5da9e421-0722-48b9-80c7-175163745741,NOCHANGE,7539.75,BULLISH,30453,NOCHANGE,109.390625,ENDOFSERIES,125.5,NOCHANGE,1.1604,BEARISH,0.006254,,,,,,,,,,,
-2026-06-04,2026-06-04T21:37:32Z,b53ee5a1-b7c8-4073-b1cb-93dfb2d162a7,NOCHANGE,7589.5,NOCHANGE,30414,NOCHANGE,109.59375,,,NOCHANGE,1.1617,NOCHANGE,0.0062555,,,,,,,,,,,
-2026-06-07,2026-06-07T21:37:47Z,770fc26d-ca31-4125-bc71-8b09f1052184,NOCHANGE,7368,NOCHANGE,28844.5,NOCHANGE,109.046875,,,NOCHANGE,1.15195,NOCHANGE,0.006243,,,,,,,,,,,
-2026-06-08,2026-06-08T21:37:28Z,dab5ad57-41ae-4323-b0f7-308b90829c35,NOCHANGE,7412.75,NOCHANGE,29435,NOCHANGE,108.953125,,,NOCHANGE,1.15385,NOCHANGE,0.0062465,,,,,,,,,,,
-2026-06-09,2026-06-09T21:36:23Z,54b42609-5188-4d95-8200-483a92952bc1,BEARISH,7380,NOCHANGE,29094.75,BULLISH,109.234375,,,NOCHANGE,1.15435,NOCHANGE,0.0062375,,,,,,,,,,,
-2026-06-10,2026-06-10T21:31:24Z,62368dd0-b728-4bca-841f-e8097a1d9b93,BULLISH,7259.25,NOCHANGE,28455,NOCHANGE,109.015625,,,ENDOFSERIES,1.15375,ENDOFSERIES,0.0062305,,,,,,,,,,,
-2026-06-11,2026-06-11T21:29:41Z,f9b15449-9ce6-4d8d-971e-3388f55da152,BEARISH,7397.5,NOCHANGE,29456.75,NOCHANGE,109.671875,,,,,,,,,,,,,,,,,
-2026-06-14,2026-06-14T21:27:52Z,622c1fa5-81fb-4e84-9e17-28a8edfb4e10,NOCHANGE,7480,NOCHANGE,29907,NOCHANGE,109.78125,,,,,,,,,,,,,,,,,
-2026-06-15,2026-06-15T21:03:24Z,ef548fbb-508b-406d-8083-292a6c660f0d,ENDOFSERIES,,ENDOFSERIES,,ENDOFSERIES,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ═══════════════════════════════════════════════════════════════════════════════",,,,,,,,,,,,,,,,,,,,,,,,,
-"# DISCLAIMER AND LEGAL NOTICES — ATP CLASSIFICATION REPORTS",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ═══════════════════════════════════════════════════════════════════════════════",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# NATURE OF SERVICE — NOT INVESTMENT ADVICE",,,,,,,,,,,,,,,,,,,,,,,,,
-"# This report is provided for informational purposes only. It does not",,,,,,,,,,,,,,,,,,,,,,,,,
-"# constitute investment advice; a research recommendation; a solicitation",,,,,,,,,,,,,,,,,,,,,,,,,
-"# or offer to buy or sell any financial instrument; or any form of",,,,,,,,,,,,,,,,,,,,,,,,,
-"# regulated financial service. Advanced Trading Products (ATP) is not",,,,,,,,,,,,,,,,,,,,,,,,,
-"# registered as an investment adviser; commodity trading adviser; broker-",,,,,,,,,,,,,,,,,,,,,,,,,
-"# dealer; or in any equivalent capacity with the U.S. Securities and",,,,,,,,,,,,,,,,,,,,,,,,,
-"# Exchange Commission; the U.S. Commodity Futures Trading Commission;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# the National Futures Association; the Financial Conduct Authority;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# or any other financial regulatory authority in any jurisdiction.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ATP does not provide execution; custody; clearing; or prime brokerage",,,,,,,,,,,,,,,,,,,,,,,,,
-"# services of any kind.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# RECIPIENT RESPONSIBILITY",,,,,,,,,,,,,,,,,,,,,,,,,
-"# All investment and trading decisions; position sizing; risk management;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# regulatory compliance; and all other commercial decisions remain the",,,,,,,,,,,,,,,,,,,,,,,,,
-"# sole and exclusive responsibility of the authorised recipient. The",,,,,,,,,,,,,,,,,,,,,,,,,
-"# recipient represents that it has the knowledge; experience; and",,,,,,,,,,,,,,,,,,,,,,,,,
-"# independent means to evaluate this report and bears full responsibility",,,,,,,,,,,,,,,,,,,,,,,,,
-"# for any action taken or omitted in connection with it.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# NO WARRANTY",,,,,,,,,,,,,,,,,,,,,,,,,
-"# This report is provided on an as-is and as-available basis. ATP makes",,,,,,,,,,,,,,,,,,,,,,,,,
-"# no representation or warranty; express or implied; as to the accuracy;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# completeness; timeliness; fitness for a particular purpose; or",,,,,,,,,,,,,,,,,,,,,,,,,
-"# non-infringement of any information contained herein. Data may be",,,,,,,,,,,,,,,,,,,,,,,,,
-"# subject to delays; errors; or omissions beyond ATP's control.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# LIMITATION OF LIABILITY",,,,,,,,,,,,,,,,,,,,,,,,,
-"# To the maximum extent permitted by applicable law; ATP; its principals;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# officers; employees; and agents shall have no liability whatsoever for",,,,,,,,,,,,,,,,,,,,,,,,,
-"# any direct; indirect; incidental; special; consequential; or punitive",,,,,,,,,,,,,,,,,,,,,,,,,
-"# loss or damage arising from use of or reliance on this report;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# including but not limited to: trading losses; loss of profit; loss",,,,,,,,,,,,,,,,,,,,,,,,,
-"# of opportunity; or loss of data; whether or not ATP has been advised",,,,,,,,,,,,,,,,,,,,,,,,,
-"# of the possibility of such loss.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# PAST CLASSIFICATIONS",,,,,,,,,,,,,,,,,,,,,,,,,
-"# Historical classifications reflect model output at the time of issuance",,,,,,,,,,,,,,,,,,,,,,,,,
-"# and are provided for reference only. Past classifications do not",,,,,,,,,,,,,,,,,,,,,,,,,
-"# guarantee; predict; or in any way indicate future model output or",,,,,,,,,,,,,,,,,,,,,,,,,
-"# market outcomes. No representation is made that any strategy based",,,,,,,,,,,,,,,,,,,,,,,,,
-"# on these classifications will or is likely to achieve results similar",,,,,,,,,,,,,,,,,,,,,,,,,
-"# to any historical period.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# CLASSIFICATION DEFINITIONS",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# Classifications reflect a statistical directional tendency derived from",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ATP's proprietary quantitative model. They do not constitute a forecast;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# guarantee; or recommendation to trade.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# BULLISH    — Model indicates elevated probability of upward price movement",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              in upcoming sessions.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# BEARISH    — Model indicates elevated probability of downward price movement",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              in upcoming sessions.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# NOCHANGE   — No update issued. The most recent classification remains valid.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ENDSERIES  — Final classification for this contract series. No further",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              updates will be issued.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# COLUMN NOTES",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# refOpen    — Reference opening price of the futures contract.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              For ES, NQ, ZN, and 6E/6J: Globex session open (17:00 CT).",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              For FGBL: Eurex session open.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ZN_refOpen_dec — ZN reference open expressed in decimal notation.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              Fractional values are converted to plain decimal for machine readability.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#              No other instrument column is affected.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ES         — CME E-mini S&P 500 futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# NQ         — CME E-mini Nasdaq-100 futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ZN         — CME 10-Year US Treasury Note futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# FGBL       — Eurex Euro Bund futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# 6E         — CME EUR/USD futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# 6J         — CME JPY/USD futures.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# PROPRIETARY AND CONFIDENTIAL",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# All ATP models; algorithms; methodologies; data; and deliverables are",,,,,,,,,,,,,,,,,,,,,,,,,
-"# proprietary to Advanced Trading Products (ATP) and are protected by",,,,,,,,,,,,,,,,,,,,,,,,,
-"# applicable intellectual property; trade secret; and confidentiality",,,,,,,,,,,,,,,,,,,,,,,,,
-"# laws. Access is granted solely to the named authorised recipient for",,,,,,,,,,,,,,,,,,,,,,,,,
-"# internal evaluation purposes only.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# The following actions are strictly prohibited without ATP's prior",,,,,,,,,,,,,,,,,,,,,,,,,
-"# written consent: redistribution or disclosure to any third party;",,,,,,,,,,,,,,,,,,,,,,,,,
-"# publication in any form; use as training data or input for any model",,,,,,,,,,,,,,,,,,,,,,,,,
-"# or algorithm; creation of derivative works; and reverse engineering",,,,,,,,,,,,,,,,,,,,,,,,,
-"# or decompilation of any kind. ATP reserves all rights and remedies",,,,,,,,,,,,,,,,,,,,,,,,,
-"# available under applicable law.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# TRIAL DISTRIBUTION — EVALUATION USE ONLY",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ───────────────────────────────────────────────────────────────────────────────",,,,,,,,,,,,,,,,,,,,,,,,,
-"# This report is issued for evaluation purposes only to the named",,,,,,,,,,,,,,,,,,,,,,,,,
-"# authorised recipient. It may not be forwarded; reproduced; or",,,,,,,,,,,,,,,,,,,,,,,,,
-"# redistributed without ATP's prior written consent. No ongoing or",,,,,,,,,,,,,,,,,,,,,,,,,
-"# future delivery is implied or guaranteed. Trial access does not",,,,,,,,,,,,,,,,,,,,,,,,,
-"# constitute a contractual commitment of any kind on the part of ATP.",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# © 2026 Advanced Trading Products (ATP). All rights reserved.",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ═══════════════════════════════════════════════════════════════════════════════",,,,,,,,,,,,,,,,,,,,,,,,,
-"#",,,,,,,,,,,,,,,,,,,,,,,,,
-"# REPORT METADATA",,,,,,,,,,,,,,,,,,,,,,,,,
-"# delivery_cycle    : CME/EUREX TRADING DAYS",,,,,,,,,,,,,,,,,,,,,,,,,
-"# ═══════════════════════════════════════════════════════════════════════════════",,,,,,,,,,,,,,,,,,,,,,,,,
+utc_date,utc_timestamp_iso_8601,report_id,ES_classification,ES_refOpen,NQ_classification,NQ_refOpen,ZN_classification,ZN_refOpen_dec,FGBL_classification,FGBL_refOpen,6E_classification,6E_refOpen,6J_classification,6J_refOpen
+29/03/2026,2026-03-29T21:31:18Z,6050f1ae-7fe5-48a8-a9fe-7016c0652930,,6380,BULLISH,23189.5,BEARISH,110.171875,BULLISH,124.52,,1.154,,0.0062775
+30/03/2026,2026-03-30T21:31:07Z,3bc35fca-f6b6-4513-ab84-545e97d3f8d7,BULLISH,6385.25,NOCHANGE,23119.5,NOCHANGE,110.765625,BEARISH,124.96,,1.1505,,0.0063
+31/03/2026,2026-03-31T21:33:13Z,2474e793-d2a1-4b9f-8d43-c813d15a664e,NOCHANGE,6562,NOCHANGE,23889,NOCHANGE,111.015625,NOCHANGE,125.79,,1.1591,BEARISH,0.0063405
+01/04/2026,2026-04-01T21:37:57Z,d17d6713-a84b-4558-bae8-4219a5960e46,NOCHANGE,6618.5,NOCHANGE,24180,BULLISH,110.90625,BULLISH,125.71,,1.1628,NOCHANGE,0.006336
+02/04/2026,2026-04-02T21:33:51Z,185ef11a-3de9-4bf2-b862-8043ea791d6d,BEARISH,6622.5,NOCHANGE,24219.5,NOCHANGE,111.015625,NOCHANGE,125.61,,1.1577,NOCHANGE,0.0063035
+05/04/2026,2026-04-05T21:40:27Z,820c1093-6521-4bf6-864a-30f8d1fba81f,BULLISH,6590,NOCHANGE,24093.5,BEARISH,110.71875,NOCHANGE,125.61,BULLISH,1.156,NOCHANGE,0.0063035
+06/04/2026,2026-04-06T21:36:19Z,6596f3aa-fe0f-4829-90d2-14ebe6c3b227,NOCHANGE,6650.5,NOCHANGE,24348.75,NOCHANGE,110.8125,NOCHANGE,125.49,NOCHANGE,1.15785,NOCHANGE,0.0063
+07/04/2026,2026-04-07T21:35:45Z,fd831009-8d80-4ee0-bfb7-54e771600894,NOCHANGE,6689,NOCHANGE,24514,NOCHANGE,111.203125,NOCHANGE,125.8,NOCHANGE,1.16345,NOCHANGE,0.006306
+08/04/2026,2026-04-08T21:33:06Z,e13b62e8-4e36-4c72-a767-fa02b9c52ab7,NOCHANGE,6814.25,BEARISH,25037.75,BULLISH,111.1875,BEARISH,126.07,NOCHANGE,1.1703,NOCHANGE,0.0063415
+09/04/2026,2026-04-09T21:43:40Z,962a0f65-1fbe-47c1-ac6a-21a928fe9a3f,NOCHANGE,6858,NOCHANGE,25237,BEARISH,111.34375,NOCHANGE,125.57,NOCHANGE,1.1736,NOCHANGE,0.006325
+12/04/2026,2026-04-12T21:35:27Z,0ec0b792-256c-447c-9665-a03945bbe35c,NOCHANGE,6780,BULLISH,24980,NOCHANGE,110.734375,BULLISH,124.8,NOCHANGE,1.171,BULLISH,0.006295
+13/04/2026,2026-04-13T21:31:57Z,17a5b6ff-8e7c-4a94-acf9-3fc19e082513,NOCHANGE,6925.25,NOCHANGE,25575.25,BULLISH,111.25,NOCHANGE,125.1,NOCHANGE,1.17955,BEARISH,0.0063065
+14/04/2026,2026-04-14T21:33:23Z,614c8d29-7b79-4096-88da-35444847f649,NOCHANGE,7004,BEARISH,25985.75,NOCHANGE,111.578125,NOCHANGE,125.54,NOCHANGE,1.1829,BULLISH,0.0063305
+15/04/2026,2026-04-15T21:41:49Z,fbf744fe-f363-453d-b224-fc757b219e8f,BEARISH,7057.25,BULLISH,26350,BEARISH,111.359375,NOCHANGE,125.32,NOCHANGE,1.183,NOCHANGE,0.0063245
+16/04/2026,2026-04-16T21:32:06Z,49f04749-2c15-4511-88c9-a8ce152c9286,NOCHANGE,7077.25,NOCHANGE,26460,BULLISH,111.171875,NOCHANGE,125.19,NOCHANGE,1.1813,NOCHANGE,0.0063145
+19/04/2026,2026-04-19T21:43:00Z,22f302c1-d13d-4b45-a81b-5b39caf9489e,NOCHANGE,7102.5,NOCHANGE,26599.75,NOCHANGE,111.546875,NOCHANGE,125.78,BEARISH,1.1767,BEARISH,0.00632
+20/04/2026,2026-04-20T21:40:58Z,ec304b41-5098-41ea-a726-61c9119526e1,BULLISH,7150.75,NOCHANGE,26776.75,NOCHANGE,111.609375,NOCHANGE,125.93,BULLISH,1.1819,NOCHANGE,0.006328
+21/04/2026,2026-04-21T21:40:19Z,894575cd-3a82-474b-86c3-0d31f4cf28a5,BEARISH,7125,NOCHANGE,26729.5,NOCHANGE,111.296875,NOCHANGE,125.51,NOCHANGE,1.1772,BULLISH,0.006303
+22/04/2026,2026-04-22T21:38:17Z,279f491f-8692-464c-8f5d-ab1af15f0408,BULLISH,7163,BEARISH,27075,NOCHANGE,111.203125,BEARISH,125.3,NOCHANGE,1.17345,BEARISH,0.006299
+23/04/2026,2026-04-23T21:37:33Z,9a4c4492-5921-4e47-8bdd-fc3ac5974628,NOCHANGE,7143,BULLISH,26992,NOCHANGE,111.03125,NOCHANGE,125.35,NOCHANGE,1.17135,NOCHANGE,0.006289
+26/04/2026,2026-04-26T21:39:45Z,b5231140-ff6f-4b6c-8e98-099829a4e6e0,NOCHANGE,7185,NOCHANGE,27403.25,NOCHANGE,111.15625,BULLISH,125.6,NOCHANGE,1.17405,NOCHANGE,0.0062955
+27/04/2026,2026-04-27T21:33:33Z,bbd93c6c-ae75-42c3-94d7-098282ba1895,NOCHANGE,7204.75,NOCHANGE,27423,BEARISH,111.015625,NOCHANGE,125.36,NOCHANGE,1.17475,BULLISH,0.0063005
+28/04/2026,2026-04-28T21:41:46Z,be019c04-6c08-4498-9dc4-63210fdca44a,NOCHANGE,7172.5,NOCHANGE,27197.25,NOCHANGE,110.890625,NOCHANGE,125.06,BEARISH,1.17385,BEARISH,0.006291
+29/04/2026,2026-04-29T21:38:41Z,44999cd6-8bf1-4a6d-925f-ffde0fd65cc6,NOCHANGE,7150,BEARISH,27207,NOCHANGE,110.28125,BEARISH,124.56,BULLISH,1.17005,NOCHANGE,0.0062585
+30/04/2026,2026-04-30T21:38:49Z,0685ac74-bc94-4b75-9512-e122fb13a3f8,NOCHANGE,7256,BULLISH,27631.75,NOCHANGE,110.703125,BULLISH,125.39,NOCHANGE,1.17585,BULLISH,0.0064075
+03/05/2026,2026-05-03T21:37:03Z,fd0685fc-5d9d-408e-af22-a228996324db,NOCHANGE,7276.25,NOCHANGE,27890,NOCHANGE,110.75,NOCHANGE,125.39,NOCHANGE,1.17605,BEARISH,0.006389
+04/05/2026,2026-05-04T21:34:11Z,4aff965d-8210-4fb1-ac36-3d1583a11b4e,NOCHANGE,7228.75,NOCHANGE,27760,NOCHANGE,111.21875,BEARISH,124.91,BEARISH,1.17155,NOCHANGE,0.0063865
+05/05/2026,2026-05-05T21:34:04Z,9919346c-2676-4581-8d95-5c7ef7705a45,BEARISH,7300.5,NOCHANGE,28250,BULLISH,110.28125,BULLISH,125.18,BULLISH,1.1716,NOCHANGE,0.006355
+06/05/2026,2026-05-06T21:34:50Z,0ff7cebd-028c-46e5-821c-372280421619,BULLISH,7380.5,BEARISH,28662.75,BEARISH,110.828125,NOCHANGE,125.76,NOCHANGE,1.17705,NOCHANGE,0.0064205
+07/05/2026,2026-05-07T21:33:19Z,f7a04c77-d03f-4e81-98d3-987958ced52a,BEARISH,7340,BULLISH,28582,BULLISH,110.484375,BEARISH,125.52,NOCHANGE,1.17435,BULLISH,0.0063925
+10/05/2026,2026-05-10T21:34:08Z,5914aa63-535a-4835-b32c-27b0a02ac2f2,NOCHANGE,7403.5,NOCHANGE,29294,BEARISH,110.71875,BULLISH,125.55,NOCHANGE,1.1789,BEARISH,0.0063955
+11/05/2026,2026-05-11T21:34:23Z,c3f3896b-549d-4a5e-96e4-fd22137ea686,NOCHANGE,7435.5,BEARISH,29399,NOCHANGE,110.359375,NOCHANGE,125.19,NOCHANGE,1.18025,BULLISH,0.006381
+12/05/2026,2026-05-12T21:32:26Z,23be7765-bd79-46d1-8e7e-73f6c67338d3,NOCHANGE,7419.25,BULLISH,29143.75,NOCHANGE,110.03125,BEARISH,124.63,NOCHANGE,1.17575,BEARISH,0.0063635
+13/05/2026,2026-05-13T21:25:31Z,d658c04f-d151-4fc8-b238-1e7211bce9fa,NOCHANGE,7477.5,NOCHANGE,29537,NOCHANGE,110.0625,NOCHANGE,124.83,NOCHANGE,1.17315,BULLISH,0.0063515
+14/05/2026,2026-05-14T21:35:41Z,7bc5bcf9-9fe2-47f7-b4d9-a7850c166418,BULLISH,7522.25,BEARISH,29690,NOCHANGE,109.90625,NOCHANGE,125,NOCHANGE,1.1685,BEARISH,0.0063315
+17/05/2026,2026-05-17T21:34:22Z,3ccf337f-52e2-47d2-b1fc-4d4fcea0a81a,NOCHANGE,7410,BULLISH,29135,NOCHANGE,109.0625,NOCHANGE,123.91,NOCHANGE,1.1637,NOCHANGE,0.006314
+18/05/2026,2026-05-18T21:38:44Z,018d8b85-27a4-4621-a0dd-1480d446bc5b,NOCHANGE,7423.5,NOCHANGE,29100,BULLISH,109.28125,BULLISH,124.37,BEARISH,1.16735,NOCHANGE,0.0063075
+19/05/2026,2026-05-19T21:36:05Z,6d1587f5-1060-49d0-9bff-466995f14808,BEARISH,7377,NOCHANGE,28929.75,NOCHANGE,108.71875,BEARISH,123.97,NOCHANGE,1.162,BULLISH,0.006302
+20/05/2026,2026-05-20T21:39:49Z,16d956f3-2c0c-4a00-a32c-cb02dec77449,BULLISH,7432.75,NOCHANGE,29253,NOCHANGE,109.25,NOCHANGE,124.83,NOCHANGE,1.1637,BEARISH,0.0063055
+21/05/2026,2026-05-21T21:39:03Z,c2ce7ab1-38e1-4d45-81b0-d9d5a54493f9,NOCHANGE,7467,BEARISH,29444,NOCHANGE,109.3125,NOCHANGE,125.13,NOCHANGE,1.1629,NOCHANGE,0.0063015
+24/05/2026,2026-05-24T21:35:59Z,f19b5abb-1d1e-45c1-ac81-ffb9848ba2ac,NOCHANGE,7519,NOCHANGE,29676.25,BEARISH,109.53125,BULLISH,125.78,NOCHANGE,1.1641,NOCHANGE,0.0063005
+25/05/2026,2026-05-25T21:35:09Z,95b29f05-cf1e-4b6f-b3f1-65a0c2e1554a,NOCHANGE,7561.25,NOCHANGE,29962,BULLISH,109.96875,NOCHANGE,126.26,NOCHANGE,1.165,NOCHANGE,0.006301
+26/05/2026,2026-05-26T21:35:59Z,7e5d3e61-da13-4e22-8cdd-e2e96e689867,NOCHANGE,7533,BULLISH,30050,NOCHANGE,109.859375,NOCHANGE,126.11,NOCHANGE,1.1641,BULLISH,0.006288
+27/05/2026,2026-05-27T21:36:49Z,89e53121-51f9-4585-96b3-3c748656b12f,NOCHANGE,7553.75,BEARISH,30120,BEARISH,109.875,NOCHANGE,125.8,NOCHANGE,1.16355,BEARISH,0.00628
+28/05/2026,2026-05-28T21:36:44Z,d6ebb85f-e27d-4159-aacf-040401bac93c,NOCHANGE,7587.5,BULLISH,30328,NOCHANGE,110.109375,NOCHANGE,126.16,NOCHANGE,1.16595,NOCHANGE,0.006289
+31/05/2026,2026-05-31T21:38:02Z,a52d038e-5bbc-4b44-9ec6-cbbd0eebad37,NOCHANGE,7595,NOCHANGE,30415.5,NOCHANGE,109.78125,BEARISH,126.16,NOCHANGE,1.1668,NOCHANGE,0.0062845
+01/06/2026,2026-06-01T21:34:56Z,6e42fab1-b7ef-42c5-9ec3-57bdd8191b31,NOCHANGE,7612,NOCHANGE,30544.75,NOCHANGE,109.75,BULLISH,126.02,NOCHANGE,1.16385,NOCHANGE,0.0062695
+02/06/2026,2026-06-02T21:36:43Z,90fc8930-448b-421e-b5ca-ce4686a9faa9,NOCHANGE,7628,BEARISH,30741.75,NOCHANGE,109.765625,NOCHANGE,126,NOCHANGE,1.16365,BULLISH,0.006262
+03/06/2026,2026-06-03T21:35:59Z,5da9e421-0722-48b9-80c7-175163745741,NOCHANGE,7539.75,BULLISH,30453,NOCHANGE,109.390625,ENDOFSERIES,125.5,NOCHANGE,1.1604,BEARISH,0.006254
+04/06/2026,2026-06-04T21:37:32Z,b53ee5a1-b7c8-4073-b1cb-93dfb2d162a7,NOCHANGE,7589.5,NOCHANGE,30414,NOCHANGE,109.59375,,,NOCHANGE,1.1617,NOCHANGE,0.0062555
+07/06/2026,2026-06-07T21:37:47Z,770fc26d-ca31-4125-bc71-8b09f1052184,NOCHANGE,7368,NOCHANGE,28844.5,NOCHANGE,109.046875,,,NOCHANGE,1.15195,NOCHANGE,0.006243
+08/06/2026,2026-06-08T21:37:28Z,dab5ad57-41ae-4323-b0f7-308b90829c35,NOCHANGE,7412.75,NOCHANGE,29435,NOCHANGE,108.953125,,,NOCHANGE,1.15385,NOCHANGE,0.0062465
+09/06/2026,2026-06-09T21:36:23Z,54b42609-5188-4d95-8200-483a92952bc1,BEARISH,7380,NOCHANGE,29094.75,BULLISH,109.234375,,,NOCHANGE,1.15435,NOCHANGE,0.0062375
+10/06/2026,2026-06-10T21:31:24Z,62368dd0-b728-4bca-841f-e8097a1d9b93,BULLISH,7259.25,NOCHANGE,28455,NOCHANGE,109.015625,,,ENDOFSERIES,1.15375,ENDOFSERIES,0.0062305
+11/06/2026,2026-06-11T21:29:41Z,f9b15449-9ce6-4d8d-971e-3388f55da152,BEARISH,7397.5,NOCHANGE,29456.75,NOCHANGE,109.671875,,,,,,
+14/06/2026,2026-06-14T21:27:52Z,622c1fa5-81fb-4e84-9e17-28a8edfb4e10,NOCHANGE,7480,NOCHANGE,29907,NOCHANGE,109.78125,,,,,,
+15/06/2026,2026-06-15T21:03:24Z,ef548fbb-508b-406d-8083-292a6c660f0d,ENDOFSERIES,,ENDOFSERIES,,ENDOFSERIES,,,,,,,
