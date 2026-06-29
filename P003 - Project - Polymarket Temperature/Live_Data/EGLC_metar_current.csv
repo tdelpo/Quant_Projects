@@ -1,11 +1,4 @@
 obsTime,temp_c,dewpoint_c,wind_dir,wind_speed,wind_gust,pressure,source
-2026-06-27T17:20:00Z,29,18,160,7,,1014,aviationweather
-2026-06-27T17:50:00Z,28,17,170,9,,1014,aviationweather
-2026-06-27T18:20:00Z,27,17,170,8,,1014,aviationweather
-2026-06-27T18:50:00Z,27,16,180,11,,1014,aviationweather
-2026-06-27T19:20:00Z,26,16,190,10,,1015,aviationweather
-2026-06-27T19:50:00Z,26,16,190,8,,1015,aviationweather
-2026-06-27T20:20:00Z,25,17,190,5,,1014,aviationweather
 2026-06-27T20:50:00Z,25,16,190,5,,1014,aviationweather
 2026-06-27T21:20:00Z,24,16,200,6,,1015,aviationweather
 2026-06-27T21:50:00Z,24,15,190,5,,1014,aviationweather
@@ -47,3 +40,10 @@ obsTime,temp_c,dewpoint_c,wind_dir,wind_speed,wind_gust,pressure,source
 2026-06-28T15:50:00Z,25,11,240,10,,1018,aviationweather
 2026-06-28T16:20:00Z,25,11,230,12,,1018,aviationweather
 2026-06-28T16:50:00Z,25,11,240,12,,1018,aviationweather
+2026-06-28T17:20:00Z,24,12,220,11,,1019,aviationweather
+2026-06-28T17:50:00Z,23,12,230,12,,1019,aviationweather
+2026-06-28T18:20:00Z,22,11,230,10,,1020,aviationweather
+2026-06-28T18:50:00Z,22,11,230,8,,1020,aviationweather
+2026-06-28T19:20:00Z,22,11,230,8,,1020,aviationweather
+2026-06-28T19:50:00Z,22,11,240,10,,1021,aviationweather
+2026-06-28T20:20:00Z,21,10,290,10,,1021,aviationweather
