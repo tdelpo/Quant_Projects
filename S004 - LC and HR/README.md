@@ -1,0 +1,1 @@
+This folder is to keep a general record of HackerRank and Leetcode problems that have both been interest and seem to occur frequently. The goal is to frequently review them as they contain good snippets of DSA coding and Problem Solving behaviours.
